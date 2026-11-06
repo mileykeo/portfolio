@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Miley's Portfolio</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            This is a portfolio website for Miley. It is a collection of her work and projects.
           </p>
         </div>
         <button
